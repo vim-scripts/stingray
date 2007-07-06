@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1944
+
+Color Scheme that tries to make the actual program logic more visible.
+Comments and type identifiers are displayed in colors that try to put them in the background. 
+They are still visible if necessary, but can be ignored if desired.
+Generally the more important something is to algorithmic logic, the brighter it should be.
